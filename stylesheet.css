@@ -19,8 +19,12 @@ h1{
 }
 p{
    font-family: 'Oswald', sans-serif;
+<<<<<<< HEAD
 
 }
 #font{
    
+=======
+   font-size: 18px
+>>>>>>> 717e17d1a4e167edb7f2b326ebbc549954936bf3
 }
