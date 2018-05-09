@@ -11,21 +11,25 @@ h3{
    color:blue;
 }
 #home{
-  
+    margin:5px 5px 10px 10px;
+    padding-top:10px;
    
 }
 #Gallery{
    
 }
 #how{
-   
+    
 }
 #contact{
    
 }
 p{
    font-family: 'Boogaloo', cursive;
-   font-size: 20px
+   font-size: 25px;
+    margin:20px 20px;
+    ;
+    
 }
 h1{
    font-size:80px;
@@ -33,4 +37,12 @@ h1{
 h7{
    font-size: 40px;
    color:green;
+}
+#text{
+    margin:5px 5px;
+    padding-top:10px;
+    
+}
+h4{
+   font-size: 30px
 }
