@@ -51,3 +51,6 @@ h4{
    font-family: 'Cuprum';
    font-size: 30px
 }
+#background{
+    background-image: url("Images/Background.jpg");
+}
