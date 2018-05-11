@@ -47,3 +47,6 @@ h7{
 h4{
    font-size: 30px
 }
+#background{
+    background-image: url("Background.jpg");
+}
