@@ -8,8 +8,10 @@ h2{
    color: lightgreen
 }
 h3{
+   font-family: 'Cuprum';
    color:blue;
    font-size: 30px
+   
 }
 #home{
     margin:5px 5px 10px 10px;
@@ -46,5 +48,6 @@ h7{
     
 }
 h4{
+   font-family: 'Cuprum';
    font-size: 30px
 }
