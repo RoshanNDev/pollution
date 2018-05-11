@@ -8,8 +8,10 @@ h2{
    color: lightgreen
 }
 h3{
+   font-family: 'Cuprum';
    color:blue;
    font-size: 30px
+   
 }
 #home{
     margin:5px 5px 10px 10px;
@@ -28,7 +30,8 @@ h3{
 p{
    font-family: 'Boogaloo', cursive;
    font-size: 25px;
-    margin:20px 20px;
+   margin:20px 20px;
+   color: green;
    
     
 }
@@ -45,6 +48,7 @@ h7{
     
 }
 h4{
+   font-family: 'Cuprum';
    font-size: 30px
 }
 #background{
